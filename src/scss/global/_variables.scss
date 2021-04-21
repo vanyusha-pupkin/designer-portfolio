@@ -18,7 +18,7 @@ $padding-bp-1:      $p-bp-1 + px;
 // $padding-width-max: $p-w-max + px;
 
 //SIZE
-// $w-layout: 1440;
+$w-layout: 1440;
 $w-max: 1170;
 // $w-bp-1: 970;
 // $w-bp-2: 750;
@@ -27,11 +27,11 @@ $w-min: 320;
 
 
 // $width-layout: $w-layout + px;
-// $width-max: $w-max + px;
+$width-max: $w-max + px;
 // $width-bp-1: $w-bp-1 + px;
 // $width-bp-2: $w-bp-2 + px;
 // $width-bp-3: $w-bp-3 + px;
-// $width-min: $w-min + px;
+$width-min: $w-min + px;
 
 
 //BREAK POINT - mobile first
@@ -61,7 +61,7 @@ $font-color-base: #2b2a2c;
 // $font-color-title: #2d3033;
 
 //BACKGROUND
-// $body-bg-color: $color-white;
+$body-bg-color: $color-white;
 
 //TRANSITION
 // $timing-function: 0.0s;
