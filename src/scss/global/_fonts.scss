@@ -1,6 +1,14 @@
 
 // font
 
+//Montserrat
+
+@include font-face("Montserrat","Montserrat-Light", "Montserrat Light", "Montserrat-Light", 300, normal);
+@include font-face("Montserrat","Montserrat-LightItalic", "Montserrat LightItalic", "Montserrat-LightItalic", 300, italic);
+@include font-face("Montserrat","Montserrat-Regular", "Montserrat", "Montserrat-Regular", 400, normal);
+@include font-face("Montserrat","Montserrat-Bold", "Montserrat Bold", "Montserrat-Bold", 700, normal);
+
+
 // template
 // @include font-face("","", "", "", 400, normal);
 // @include font-face("","-ExtraLightItalic", " ExtraLightItalic", "-ExtraLightItalic", 200, italic);
