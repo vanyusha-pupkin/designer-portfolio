@@ -5,21 +5,21 @@ $folder-fonts:  "../fonts/";       // путь к шрифтам
 
 
 //PADDING
-// $p-w-min: 15;
-// $p-bp-1:  15;
+$p-w-min: 15;
+$p-bp-1:  15;
 // $p-bp-2:  15;
 // $p-bp-3:  15;
-// $p-w-max: 15;
+$p-w-max: 15;
 
 // $padding-width-min: $p-w-min + px;
-// $padding-bp-1:      $p-bp-1 + px;
+$padding-bp-1:      $p-bp-1 + px;
 // $padding-bp-2:      $p-bp-2 + px;
 // $padding-bp-3:      $p-bp-3 + px;
 // $padding-width-max: $p-w-max + px;
 
 //SIZE
-// $w-layout: 1920;
-// $w-max: 1170;
+// $w-layout: 1440;
+$w-max: 1170;
 // $w-bp-1: 970;
 // $w-bp-2: 750;
 // $w-bp-3: 420;
@@ -47,19 +47,17 @@ $bp-4: 480;
 
 
 //COLOR
-// $color-black: #333333;
-// $color-white: #ffffff;
-// $color-red: #e84545;
-// $color-blue: #3a3e64;
-// $color-blue-dark: #313454;
+$color-black: #333333;
+$color-white: #ffffff;
+// $color-gray: #2b2a2c;
 
 
 //FONT
-// $font-family-base: "Raleway", "Arial", sans-serif;
-// $font-size-base: 14px;
-// $line-height-base: calc(21px / 14px);
-// $font-weight-base: 400;
-// $font-color-base: #6c7279;
+$font-family-base: "Montserrat", "Arial", sans-serif;
+$font-size-base: 14px;
+$line-height-base: calc(32px / 14px);
+$font-weight-base: 400;
+$font-color-base: #2b2a2c;
 // $font-color-title: #2d3033;
 
 //BACKGROUND
