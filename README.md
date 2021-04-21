@@ -1,7 +1,7 @@
-# Проект «»
+# Проект «DesignerPortfolio»
 
 ---
-## Ссылка на сайт - [https://vanyusha-pupkin.github.io/---/](https://vanyusha-pupkin.github.io/---/)
+## Ссылка на сайт - [https://vanyusha-pupkin.github.io/designer-portfolio/](https://vanyusha-pupkin.github.io/designer-portfolio/)
 
 ## Как использовать
 
